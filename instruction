@@ -1,6 +1,6 @@
-1.git init
-2.git config user.email "yunus172004@gmail.com"
-3.git add .
-4.git commit -m "first commit"
-5. git remote add origin https://github.com/Yunus-hassan/intro2python.git
-6.git push -u origin master
+git init
+git config user.email "yunus172004@gmail.com"
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Yunus-hassan/intro2python.git
+git push -u origin master
