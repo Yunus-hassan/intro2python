@@ -1,6 +1,6 @@
 city = "Nairobi"
 age = "19"
-name = "roy"
+name = "frog"
 x = 10
 y = 20
 

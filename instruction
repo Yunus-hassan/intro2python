@@ -4,3 +4,7 @@ git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Yunus-hassan/intro2python.git
 git push -u origin master
+-----after deployment-----
+git add .
+git commit -m"added variables and calculator"
+git push -u origin master
