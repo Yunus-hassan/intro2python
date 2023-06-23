@@ -2,5 +2,5 @@
 2.git config user.email "yunus172004@gmail.com"
 3.git add .
 4.git commit -m "first commit"
-5. replace with yours - git remote add origin https://github.com/devtedke/devtedke.git
+5. https://github.com/Yunus-hassan/intro2python.git
 6.git push -u origin master
