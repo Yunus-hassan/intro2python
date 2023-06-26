@@ -3,4 +3,4 @@ length = int(rectangle_length )
 rectangle_width = input("width of rectangle")
 width = int(rectangle_width)
 Area = width * length
-print(Area)
+print("Area is" , Area)
