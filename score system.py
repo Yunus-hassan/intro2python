@@ -2,7 +2,7 @@ marks = int(input("Enter your marks"))
 
 if marks < 40:
     print("E")
-elif marks < 50:
+elif marks < 50: 
     print("D")
 elif marks < 60:
     print("C")
