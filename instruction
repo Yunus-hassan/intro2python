@@ -6,5 +6,5 @@ git remote add origin https://github.com/Yunus-hassan/intro2python.git
 git push -u origin master
 -----after deployment-----
 git add .
-git commit -m"addedd guessing game"
+git commit -m "addedd BMI calculator"
 git push -u origin master
