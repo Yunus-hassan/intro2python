@@ -5,4 +5,5 @@ friends = ["bob","marie","sue"]
 friends.append("roy")
 friends.append("gill")
 #friends.remove("bob")
-print(friends)
+print(friends[0])
+
