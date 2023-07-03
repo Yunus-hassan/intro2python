@@ -1,4 +1,5 @@
-x = int(input("enter number"))
-while x <= 1000:
+x = int(input("enter  first number"))
+v = int(input("enter second number"))
+while x <= v:
     print(x)
     x += 1
