@@ -1,6 +1,7 @@
 from peewee import *
 from os import path
 
+
 # creating our first database
 connection = path.dirname(path.realpath(__file__))
 db = SqliteDatabase(path.join(connection, "emobilis.db"))
@@ -21,7 +22,7 @@ User.create_table(fail_silently=True)
 
 class Student(Model):
     name = CharField()
-    phone = IntegerField()
+    contact = IntegerField()
     age = IntegerField()
     gender = CharField()
     studentcode = IntegerField()
